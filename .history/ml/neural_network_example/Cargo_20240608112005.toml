@@ -1,0 +1,9 @@
+[package]
+name = "neural_network_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+linfa = "0.7.0"  # Check for the latest version on crates.io
+linfa-datasets = "0.7.0"  # Check for the latest version on crates.io
+ndarray = "0.15" 
