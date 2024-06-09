@@ -1,6 +1,6 @@
 
 fn main() {
-    let mut height = 190;
+    let mut height = 3000;
     height = height - 20; // Subtract 20 from height
 
     // Conditional expression to determine the value of `result`
