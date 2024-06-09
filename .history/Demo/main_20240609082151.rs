@@ -10,7 +10,6 @@ use std::cmp::Ordering;
 fn main() {
     print;n!("What is your name?");
     let mut name: String = String::new();
-    let greeting: &str = "Nice to meet you";
-    io::stdin().read_line(&mut name).expect("Failed to read Input");
+    let mut greeting: &str = "Nice to meet you";
     println!("Hello, World!");
 }
